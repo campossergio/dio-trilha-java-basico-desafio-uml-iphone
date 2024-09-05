@@ -1,6 +1,6 @@
 # POO DESAFIO - IPHONE
 
-## MODELAGEM E DIAGRMAÇÃO DE UM COMPONENTE IPHONE
+## MODELAGEM E DIAGRAMAÇÃO DE UM COMPONENTE IPHONE
 
 ![image](https://github.com/user-attachments/assets/2824e7b7-0ced-4981-86bb-ff9f23cc450b)
 
